@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "name": "Fern",
+    "description": "Lush green indoor plant.",
+    "sunlight": "Indirect sunlight",
+    "waterNeeds": "Medium",
+    "modelFile": "fern.glb"
+  },
+  {
+    "id": "2",
+    "name": "Succulent",
+    "description": "Low-maintenance succulent.",
+    "sunlight": "Full sunlight",
+    "waterNeeds": "Low",
+    "modelFile": "succulent.glb"
+  }
+]
+
